@@ -1,0 +1,35 @@
+canciones;;;;compositor;;;idioma;;;cancion_genero;;;animo_cancion;
+id_cancion;Año;Canción;;id_artista;nombre;;id_idioma;Idioma;;id_genero;Genero;;id_estado animo;Estado de Ánimo
+c1;1975;Bohemian Rhapsody;;a1;Queen;;i1;Inglés;;g1;Rock;;d1;Épico
+c2;1982;Billie Jean;;a2;Michael Jackson;;i2;Español;;g2;Pop;;d2;Bailable
+c3;1991;Smells Like Teen Spirit;;a3;Nirvana;;i3;Coreano;;g3;Grunge;;d3;Rebelde
+c4;1965;Like a Rolling Stone;;a4;Bob Dylan;;;;;g4;Folk Rock;;d4;Reflexivo
+c5;1976;Hotel California;;a5;Eagles;;;;;g5;Pop Rock;;d5;Melancólico
+c6;1971;Imagine;;a6;John Lennon;;;;;g6;Soul;;d6;Esperanzador
+c7;2017;Shape of You;;a7;Ed Sheeran;;;;;g7;Britpop;;d7;Romántico
+c8;2010;Rolling in the Deep;;a8;Adele;;;;;g8;Latin Pop;;d8;Intenso
+c9;1968;Hey Jude;;a9;The Beatles;;;;;g9;Reggaetón;;d9;Consolador
+c10;1995;Wonderwall;;a10;Oasis;;;;;g10;Flamenco Fusión;;d10;Energético
+c11;2006;Hips Don’t Lie;;a11;Shakira ft;;;;;g11;Synthpop;;d11;Fiestero
+c12;2017;Despacito;;a12;Luis Fonsi ;;;;;g12;Funk;;d12;Alegre
+c13;2004;Gasolina;;a13;Daddy Yankee;;;;;g13;Dance Pop;;d13;Oscuro
+c14;2016;La Bicicleta;;a14;Rosalía;;;;;g14;Afrobeats;;d14;Triunfante
+c15;2018;Malamente;;a15;The Weeknd;;;;;g15;K-pop;;d15;Divertido
+c16;2019;Blinding Lights;;a16;Mark Ronson;;;;;g16;Electrónica;;d16;Sensual
+c17;2014;Uptown Funk;;a17;Coldplay;;;;;g17;Alternative Rock;;d17;Eufórico
+c18;2008;Viva La Vida;;a18;Lady Gaga;;;;;g18;Rock Latino;;d18;Apasionado
+c19;2008;Poker Face;;a19;Drake;;;;;g19;Pop Latino;;d19;Hipnótico
+c20;2016;One Dance;;a20;PSY;;;;;g20;Dancehall;;d20;Intenso
+c21;2012;Gangnam Style;;a21;Bad Bunny ;;;;;g21;Trap;;d21;Vibrante
+c22;2020;Dákiti;;a22;Farruko;;;;;g22;Vallenato;;d22;Desenfadado
+c23;2021;Pepas;;a23;Jennifer Lopez;;;;;;;;d23;Emotivo
+c24;2018;El Anillo;;a24;Coldplay;;;;;;;;;
+c25;2002;Clocks;;a25;Sia;;;;;;;;;
+c26;2014;Chandelier;;a26;The Rolling Stones;;;;;;;;;
+c27;1969;Rolling Stones en un concierto;;a27;Jarabe de Palo;;;;;;;;;
+c28;2018;Shallow;;a28;Ricky Martin;;;;;;;;;
+c29;1996;La Flaca;;a29;Bruno Mars;;;;;;;;;
+c30;1999;Livin’ la Vida Loca;;a30;Jhay Cortez;;;;;;;;;
+;;;;a31;Bradley cooper;;;;;;;;;
+;;;;a32;Wyclef jean;;;;;;;;;
+;;;;a33;Carlos Vives;;;;;;;;;
